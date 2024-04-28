@@ -31,3 +31,5 @@ app.listen(8001,()=>{
     console.log("listening")
 })
 
+module.exports = app;
+module.exports = db;
