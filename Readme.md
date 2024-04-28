@@ -24,7 +24,7 @@ Before you begin, ensure that you have met the following requirements
    cd iwp-metdata-backend
    ```
    
-3. Create a .env file with the help of .env.example file , copying it content and asking from DB_URL from me.
+3. Create a .env file with the help of .env.example file , copying it content and asking for DB_URL from me.
 
 4. Install dependencies:
     ```bash
