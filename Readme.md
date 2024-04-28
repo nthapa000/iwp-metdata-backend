@@ -37,3 +37,8 @@ Before you begin, ensure that you have met the following requirements
     ```bash
    npm run build
    ```
+    
+6. Run the server
+   ```bash
+   npm run start
+   ```
