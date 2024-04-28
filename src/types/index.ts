@@ -19,6 +19,8 @@ export interface TableTypes {
     dec: number;
   }
   
+
+  
   export interface Precipitation_2004_2011 {
     State: "text";
     District: "text";
