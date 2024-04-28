@@ -1,6 +1,6 @@
 <h2 align='center'>This is Backend in Nodejs and Express for the prototype for the Project Met Data for Everyone</h2>
 
-Deployment is not working right now will fix it soon
+To test the full app [https://iwp-metdata-frontend.vercel.app/]
 
 ## Prerequisites
 
